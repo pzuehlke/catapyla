@@ -1,2 +1,7 @@
-catapyla_logo.pdf
-catapyla_logo.tex
+*.fls
+*.fdb_latexmk
+*.aux
+*.log
+*.pdf
+*.tex
+*.synctex.gz
